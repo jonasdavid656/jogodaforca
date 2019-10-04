@@ -1,0 +1,46 @@
+body{
+	background-color: #101010;
+}
+h2{
+	font-size: 100px;
+	text-align: center;
+	color:#F5FFFa;
+	padding: 50px;
+}
+h1{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	text-align: center;
+	font-size: 40px;
+	color: #900090;
+}
+* {
+margin: 0;
+padding: 0; 
+border: 0; 
+}
+input { 
+margin: auto;
+background: #fff; 
+border: 1px solid #ccc;
+padding: 2px;
+}
+#teclado { 
+width: 200px; 
+text-align: center;
+padding: 20px 20px;
+}
+#area {
+	text-align: center;
+}
+#teclado fieldset { 
+width: 300px; 
+text-align: center;
+float: left; 
+margin: 2px;
+}
+fieldset { 
+margin: auto;
+}
